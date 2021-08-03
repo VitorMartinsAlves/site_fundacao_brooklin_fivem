@@ -8,6 +8,10 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+.discordData{
+    width: 100vw;
+}
+
 header {
     background-image: url('../assets/bg-header.jpg');
     height: 70px;
